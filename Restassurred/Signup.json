@@ -1,0 +1,26 @@
+{ 
+  "firstName": "Rajesh",
+  "lastName": "Patel",
+  "email": "hello_test845@wbtest.com",
+  "password": "Password",
+  "dateOfBirth": "1988-03-28T04:59:29.894Z",
+  "zipCode": "78701",
+  "hasSubcribedToEmail": true,
+  "avatarId": 0,  
+  "DeviceDetails":
+   {
+      "DeviceId":"1234563",
+        "ModelName": "6SE",
+        "ManufacturerName": "Apple",
+        "CustomName": "PremApple"
+   },
+   "LocationInfo":  
+  {
+  "Coordinates":
+    {
+       "Latitude":"29.4087",
+       "Longitude":"-98.4819"         
+    },
+      "TimeZoneName": "Central Standard Time"
+  }
+}

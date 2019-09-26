@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7139" started-at="2019-07-25T19:32:48Z" finished-at="2019-07-25T19:32:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7139" started-at="2019-07-25T19:32:48Z" finished-at="2019-07-25T19:32:55Z">
+      <class name="whataburgerAPI.LoginAPI">
+        <test-method status="PASS" signature="login()[pri:0, instance:whataburgerAPI.LoginAPI@52a86356]" name="login" duration-ms="7076" started-at="2019-07-25T14:32:48Z" finished-at="2019-07-25T14:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- whataburgerAPI.LoginAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
